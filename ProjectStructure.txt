@@ -1,0 +1,48 @@
+SyMirror Project Structure
+
+This file lists all the necessary files required for SyMirror to function correctly.
+Extract all files from the ZIP archive and keep them in the same folder.
+
+---
+Main Executable:
+- SyMirror.exe          # The main application launcher.
+
+Core Dependencies (Required):
+- adb.exe               # Android Debug Bridge client.
+- AdbWinApi.dll         # Windows API for ADB.
+- AdbWinUsbApi.dll      # Windows USB API for ADB.
+- scrcpy-server.jar     # The core screen mirroring server.
+
+FFmpeg Libraries (For Video/Audio Processing):
+- avcodec-62.dll        # FFmpeg codec library.
+- avdevice-62.dll       # FFmpeg device input/output library.
+- avfilter-11.dll       # FFmpeg filter graph library.
+- avformat-62.dll       # FFmpeg format handling library.
+- avutil-60.dll         # FFmpeg utility library.
+- swresample-6.dll      # FFmpeg audio resampling library.
+- swscale-9.dll         # FFmpeg image scaling and conversion library.
+
+.NET Runtime and Third-Party Libraries:
+- FFmpeg.AutoGen.dll    # .NET bindings for FFmpeg.
+- NAudio.Core.dll       # Core NAudio library.
+- NAudio.dll            # Main NAudio library.
+- NAudio.Asio.dll       # ASIO audio driver support.
+- NAudio.Midi.dll       # MIDI support.
+- NAudio.Wasapi.dll     # WASAPI audio support.
+- NAudio.WinForms.dll   # Windows Forms integration for NAudio.
+- NAudio.WinMM.dll      # Windows Multimedia API support.
+- AdbDotNet.dll         # .NET wrapper for ADB.
+
+Configuration Files:
+- SyMirror.deps.json    # .NET dependency file.
+- SyMirror.runtimeconfig.json # .NET runtime configuration.
+- SyMirror.pdb          # Debug symbols (optional, for debugging).
+
+Other Files:
+- icon.ico              # Application icon.
+- recovery.exe          # Recovery/utility executable.
+- ProjectStructure.txt  # This file.
+- README.md             # Main documentation.
+
+---
+IMPORTANT: Do not delete or move any of these files from the application folder.

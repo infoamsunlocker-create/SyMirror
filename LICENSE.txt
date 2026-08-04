@@ -1,0 +1,14 @@
+SyMirror is distributed with the following third-party components:
+
+- scrcpy-server.jar (Apache License 2.0)
+  Copyright (c) 2018 Genymobile
+  https://github.com/Genymobile/scrcpy
+
+- FFmpeg (LGPL License)
+  https://ffmpeg.org/
+
+- NAudio (MIT License)
+  Copyright (c) 2020 Mark Heath
+  https://github.com/naudio/NAudio
+
+SyMirror itself is closed-source and proprietary.
