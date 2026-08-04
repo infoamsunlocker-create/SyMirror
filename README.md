@@ -1,10 +1,14 @@
 # SyMirror
 
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![License](https://img.shields.io/badge/license-Proprietary-red.svg)
+
 **SyMirror** is a Windows screen mirroring tool that lets you display and control your Android device from your computer - similar to scrcpy but with enhanced features.
 
 ## 📥 Download
 
-**Latest Version:** [v1.0.0](https://github.com/infoamsunlocker-create/SyMirror/releases/tag/v1.0.0)
+**Latest Version:** [v1.0.0](https://github.com/infoamunlocker-create/SyMirror/releases/latest)
 
 Download the `SyMirror_v1.0.0.zip` file from the releases section.
 
