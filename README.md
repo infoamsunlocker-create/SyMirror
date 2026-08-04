@@ -4,7 +4,7 @@
 
 ## 📥 Download
 
-**Latest Version:** **Latest Version:** [v1.0.0](https://github.com/infoamunlocker-create/SyMirror/releases/latest)
+**Latest Version:** [v1.0.0](https://github.com/infoamunlocker-create/SyMirror/releases/latest)
 
 Download the `SyMirror_v1.0.0.zip` file from the releases section.
 
