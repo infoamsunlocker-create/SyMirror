@@ -26,17 +26,17 @@ Download the `SyMirror_v1.0.0.zip` file from the releases section.
 #### Main Mirroring View  
 SyMirror displaying the Pixel 6a screen with full control:  
 
-![Main View](screenshots/screenshot-main-view.png)  
+![Main View](https://raw.githubusercontent.com/infoamunlocker-create/SyMirror/main/Screenshots/screenshot-main-view.png)  
 
 #### About Dialog  
 Developer credit and version information:  
 
-![About Dialog](screenshots/screenshot-about-dialog.png)  
+![About Dialog](https://raw.githubusercontent.com/infoamunlocker-create/SyMirror/main/Screenshots/screenshot-about-dialog.png)  
 
 #### Error Handling  
 Clear feedback when connection issues occur:  
 
-![Error State](screenshots/screenshot-disconnect-state.png)  
+![Error State](https://raw.githubusercontent.com/infoamunlocker-create/SyMirror/main/Screenshots/screenshot-disconnect-state.png)  
 
 ## 📋 Requirements
 
