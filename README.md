@@ -36,7 +36,7 @@ Developer credit and version information:
 ### Error Handling
 Clear feedback when connection issues occur:
 
-![Error State](screenshots/screenshot-error-state.png)
+![Error State](screenshots/screenshot-disconnect-state.png)
 
 ## 📋 Requirements
 
