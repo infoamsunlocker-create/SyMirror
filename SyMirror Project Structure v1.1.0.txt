@@ -1,0 +1,16 @@
+SyMirror Project Structure v1.1.0
+
+...
+Main Executable:
+- SyMirror.exe          # The main application launcher.
+
+... (existing files)
+
+New in v1.1.0:
+- No new DLLs added - improvements are in the code only
+
+Feature Notes:
+- Screenshots saved to: Pictures\SyMirror\
+- Recordings saved to: Videos\SyMirror\
+- Screenshot format: PNG
+- Recording format: MP4 (H.264 video)
