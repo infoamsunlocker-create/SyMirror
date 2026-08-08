@@ -17,6 +17,28 @@
 - **Multi-Device Support** - Connect multiple Android devices
 - **Wireless ADB** - Connect over TCP/IP
 
+## 🆕 What's New in v1.1.0
+
+### 📸 Screenshot Capture
+- Click the **camera button (📷)** in the toolbar
+- Captures the current device screen instantly
+- Saves as PNG with timestamp: `Screenshot_YYYYMMDD_HHMMSS.png`
+- Automatically saved to: `%USERPROFILE%\Pictures\SyMirror\`
+
+### ⏺ Screen Recording
+- Click the **record button (⏺)** to start recording
+- **Visual feedback:** Record button turns **red** when active
+- **Title bar indicator:** Shows **"• REC"** while recording
+- Click the **stop button (⏹)** to finish
+- Encodes to H.264 and muxes into MP4
+- Automatically saved to: `%USERPROFILE%\Videos\SyMirror\`
+- File format: `Recording_YYYYMMDD_HHMMSS.mp4`
+
+### 🎨 UI Improvements
+- **About Dialog fixed** - Removed stray '&' character (WinForms mnemonic issue)
+- **Toolbar updated** - Added camera and record buttons with clear icons
+- **Better visual feedback** - Clear status indication for active recording
+
 ## 📥 Download
 
 **Latest Version:** [v1.1.0](https://github.com/infoamsunlocker-create/SyMirror/releases/download/v1.1.0/SyMirror_v1.1.0.rar)
