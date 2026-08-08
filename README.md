@@ -41,7 +41,7 @@
 
 ## 📥 Download
 
-**Latest Version:** [v1.1.0](https://github.com/infoamsunlocker-create/SyMirror/releases/download/v1.1.0/SyMirror_v1.1.0.rar)
+**Latest Version:** [v1.1.0](https://github.com/infoamsunlocker-create/SyMirror/releases/tag/v1.1.0)
 
 Download the `SyMirror_v1.1.0.rar` file from the releases section.
 
